@@ -5,4 +5,9 @@ h1{
 
 h2{
     color: yellow;
+    background-color: black;
+}
+
+h3{
+    background-color: blue;
 }
